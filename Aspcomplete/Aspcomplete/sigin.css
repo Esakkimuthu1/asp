@@ -1,0 +1,36 @@
+﻿h1 {
+    color:orangered;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    padding-top:10px;
+    text-align:center;
+}
+div {
+      background-image:url('bg1.jpeg');
+    height: 317px;
+}
+#Label1 {
+    color:white;
+
+}
+#TextBox1 {
+    color:red;
+    background-color:lightgreen;
+    padding-left:30px;
+}
+#Label2 {
+    color:white;
+}
+#TextBox2 {
+    color:red;
+    background-color:lightgreen;
+    padding-left:30px;
+}
+#Button1 {
+    background-color:green;
+    color:white;
+    border-radius:inherit;
+    padding:10px;
+    margin-left:60px;
+}
+

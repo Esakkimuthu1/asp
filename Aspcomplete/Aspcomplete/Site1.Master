@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Aspcomplete.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <header><h1>user registration</h1></header>
+        
+        <aside>
+            <div id="a1">
+                <a href="WebForm2.aspx">Signin</a>
+            <br /><br />
+            </div>
+       
+            <div id="a2">
+                <a href="WebForm3.aspx">SignUp</a>
+                </div>
+        </aside>
+        <section>
+             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                 <p style="height: 498px; width: 742px">
+                     &nbsp;</p>
+        
+        </asp:ContentPlaceHolder>
+        </section>
+        <footer>
+            <h6>CopyRight&copy</h6> 
+
+        </footer>
+      
+    </div>
+    </form>
+</body>
+</html>

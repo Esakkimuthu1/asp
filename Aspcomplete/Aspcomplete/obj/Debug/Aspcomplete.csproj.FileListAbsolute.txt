@@ -1,0 +1,5 @@
+F:\DOTNET\Aspcomplete\Aspcomplete\bin\Aspcomplete.dll
+F:\DOTNET\Aspcomplete\Aspcomplete\bin\Aspcomplete.pdb
+F:\DOTNET\Aspcomplete\Aspcomplete\obj\Debug\Aspcomplete.csprojResolveAssemblyReference.cache
+F:\DOTNET\Aspcomplete\Aspcomplete\obj\Debug\Aspcomplete.dll
+F:\DOTNET\Aspcomplete\Aspcomplete\obj\Debug\Aspcomplete.pdb
